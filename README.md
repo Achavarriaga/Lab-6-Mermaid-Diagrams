@@ -1,2 +1,15 @@
-# Lesson5.md
- lesson5.md
+``` 
+mermaid
+flowchart TD
+A[DAILY ROUTINE] --> B[WAKE UP/GET READY]
+B --> C[WORK 7-5]
+C --> D{HOME}
+D --> F[WORK PARTIME JOB ONLINE]
+D --> G[COOK DINNER]
+D --> H((WATCH MY KIDS))
+D --> I[ONLINE CLASSES]
+H --> J[EAT DINNER]
+J --> K((NIGHT ROUTINE))
+K --> L{{FINALLY QUIET/TEA TIME/NETFLIX}}
+L --> M{SLEEP}
+
