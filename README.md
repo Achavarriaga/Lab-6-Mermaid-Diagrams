@@ -1,5 +1,4 @@
-``` 
-mermaid
+``` mermaid
 flowchart TD
 A[DAILY ROUTINE] --> B[WAKE UP/GET READY]
 B --> C[WORK 7-5]
